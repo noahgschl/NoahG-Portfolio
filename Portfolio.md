@@ -27,6 +27,8 @@ The biggest challenge that I have faced in and still face is trying to understan
 #  What moment am I most proud of so far?
 My proudest moment that I still think of often is when I built my first computer, this computer, back in high school. I did it using YouTube, old computer parts given to me that would’ve ended up being recycled, and much guess work. But the moment when I plugged the power cable in, hit the on button, and was met with a blue power light and the sound of fans whirring to life was the most revolutionary moment for me. 
 That event taught me that I could do things I didn’t think were possible, and that with enough determination and time, I could accomplish great things. 
+
+**However, I would say my biggest finished accomplishment in programming would be my snake-in-a-maze game that I have posted below README**
 # What is one thing I will do to improve for the second half of class?
 I want to get better at managing my time. It is something most people struggle with, and I especially have. I am not a stranger to procrastination; it’s the reason for many late assignment submissions. Even so, I recognize that with the right habits and systems for myself, I can do a lot more with my time if I really try, and when I am able to stay on track and work hard toward something, that feeling of accomplishment is reward enough. 
 I want to have a plan I will carry out for anything I am trying to achieve, whether a large coding project or just a small assignment. If I can game-ify it or turn it into a system, then it is much more likely to be done and done well.
