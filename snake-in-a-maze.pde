@@ -1,3 +1,6 @@
+This was made using a Java based program called Processing.
+
+
 //Noah Gayner
 //Snake In A Maze
 
