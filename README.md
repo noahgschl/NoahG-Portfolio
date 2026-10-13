@@ -1,3 +1,3 @@
 # noahgschl.github.io
 
-See README for my portfolio. More to be added later.
+See my portfolio above. More to be added later.
