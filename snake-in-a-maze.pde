@@ -1,4 +1,4 @@
-//This was made using a Java based program called Processing.
+//This was made using a Java based program called Processing. You can install the program at https://processing.org/download.
 
 
 //Noah Gayner
