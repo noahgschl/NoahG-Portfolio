@@ -7,7 +7,9 @@ As I grew up, I was exposed to computers more, and the satisfaction, the excitem
 
 #  Since the beginning of my tech journey, I have hit a few different milestones.
 •	While in high school, at the age of 15, I built my first computer. I have modified it since, upgraded it, and I am now writing this portfolio on it.
+
 •	I have worked in IT for the past 2+ years. While in the field, I have learned so much about computers, the way they operate, different operating systems, and they way they all interact. 
+
 •	I have been exposed to many networks, servers, and unique and intricate computer systems and had to work in commercial settings where there is little to no room for error. 
 Linux has become a large part of my job, and I work with it regularly. I have grown accustomed to using several of the more popular distros, such as Debian and Ubuntu. 
 
