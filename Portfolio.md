@@ -13,6 +13,8 @@ As I grew up, I was exposed to computers more, and the satisfaction, the excitem
 •	I have been exposed to many networks, servers, and unique and intricate computer systems and had to work in commercial settings where there is little to no room for error. 
 Linux has become a large part of my job, and I work with it regularly. I have grown accustomed to using several of the more popular distros, such as Debian and Ubuntu. 
 
+I have also put some of my other creations on my GitHub page.
+
 #  Where I’d Like To Go
 As to where I would like to see myself in the future, I don’t truly know. There are several possible directions that I have in mind.
 Possible life avenues to venture down:
